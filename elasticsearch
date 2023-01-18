@@ -1,1 +1,2 @@
 FROM elasticsearch:8.6.0
+MAINTAINER Show8090 <show8090@outlook.com>
