@@ -1,2 +1,2 @@
-FROM elasticsearch:8.6.0
+FROM docker.elastic.co/elasticsearch/elasticsearch:8.8.2
 MAINTAINER Show8090 <show8090@outlook.com>
